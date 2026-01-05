@@ -4,7 +4,7 @@
 ## 轻松一键续杯 Cursor Kiro
 
 ## 加入QQ群获取最新下载,交流学习
-<img width="529" height="650" alt="image" src="https://github.com/user-attachments/assets/c801c551-616e-4fbb-b1b0-c8d80604a091" />
+<img width="529" height="850" alt="image" src="https://github.com/user-attachments/assets/c801c551-616e-4fbb-b1b0-c8d80604a091" />
 
 ## 声明
 
